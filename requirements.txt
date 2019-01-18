@@ -1,3 +1,5 @@
 beautifulsoup4==4.6.3
 flask==1.0.2
 flask_restful==0.3.6
+pandas==0.23.4
+scikit-learn==0.20.2
